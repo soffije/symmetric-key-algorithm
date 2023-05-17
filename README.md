@@ -1,1 +1,1 @@
-# symmetric-key-algorithm
+# Symmetric-Key Algorithm
